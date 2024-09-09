@@ -1,1 +1,1 @@
-# COMS_4770-Homeworks
+# COMS 5740 - Machine Learning
